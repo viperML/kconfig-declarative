@@ -11,11 +11,11 @@ $ tee manifest.json << EOF
         "Number": 4
       }
     },
-		"baloofilerc": {
-			"Basic Settings": {
-				"Indexing-Enabled": false
-			}
-		}
+    "baloofilerc": {
+      "Basic Settings": {
+        "Indexing-Enabled": false
+      }
+    }
   }
 }
 EOF
